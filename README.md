@@ -6,7 +6,7 @@
 
 *	Install openssh in Termux
 	```
-	pkg isntall openssh -y
+	pkg install openssh -y
 	```
 *	Create password for SSH connection
 	```
